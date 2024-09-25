@@ -1,0 +1,1 @@
+This is a demo version of the app, built for only presentation purposes. All the data will be saved in the local storage. 
